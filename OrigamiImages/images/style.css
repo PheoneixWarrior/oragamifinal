@@ -1,0 +1,34 @@
+h1{
+    color:mediumorchid
+}
+h2,p{
+    color:darkmagenta;
+    text-align:center;
+}
+
+.header{
+    background-color:olive;
+    display:flex;
+    justify-content: space-between;
+}
+.games{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.items{
+    display: flex;
+    justify-content: space-around;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+
+a:link{
+    color: rebeccapurple;
+}
+
+a:visited{
+    color:darkgoldenrod;
+}
